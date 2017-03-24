@@ -1,1 +1,1 @@
-ECHO is on.
+This is victorozichi's first git project!
